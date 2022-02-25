@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The counter-rat, or, Oats sifted and sack't up in the counter and since removed to the Kings-Bench in a letter to W.C., Esq.</title>
+            <author>M. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63521</idno>
+            <idno type="STC">Wing T27</idno>
+            <idno type="STC">ESTC R9660</idno>
+            <idno type="EEBO-CITATION">13766088</idno>
+            <idno type="OCLC">ocm 13766088</idno>
+            <idno type="VID">101721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101721)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 852:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The counter-rat, or, Oats sifted and sack't up in the counter and since removed to the Kings-Bench in a letter to W.C., Esq.</title>
+                  <author>M. T.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: M.T.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Popish Plot, 1678 --  Humor.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:101721:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <head>The Counter-Rat, OR OATS Sifted and Sack't up in the COUNTER, And ſince Removed to the KINGS-BENCH, In a Letter to <hi>W. C.</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <p>YOU have heard, ſince the laſt Nipping Froſt, how the Rate of Corn goes in <hi>England;</hi> the <hi>Wheat</hi> being wither'd in the Stalk, and the <hi>Barley</hi> blaſted in the Blade, begins with the warm Sun to peep out again, all ſorts of Grain begin to Flouriſh but <hi>Oates,</hi> which dare not ſhow his Head above <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ound.</p>
+            <p>Hearing he was abſconded, I made (according to your Requeſt) the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arrowe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſearch I could, <hi>viz.</hi> by <hi>Hue</hi> and <hi>Cry; Bell, Book,</hi> and <hi>Candle; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>blication, Proclamation, Narrative,</hi> and <hi>Remonſtrance.</hi> I ſearched the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arkets and the Coffee Houſes, for fear they ſhou'd Roaſt him inſtead of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>offee Berries, the <hi>Black Box</hi> and the <hi>Meal Tub,</hi> leaſt he ſhould like another <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoenix,</hi> raiſe a new Plot out of his own <hi>Duſt.</hi> I ſearch'd the new King of <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lands,</hi> where he us'd to Reſort, and his Neighbouring Tavern, the <hi>Dog, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Drury-Lane,</hi> for fear the Hound <hi>Bowman</hi> ſhou'd hang him at his Sign<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt for a Buſh, or the <hi>Tories</hi> keep him for a Bonfire the next general <hi>Club:</hi> ſearch'd the <hi>Cabals</hi> &amp; <hi>Conventickles,</hi> leaſt the Saints ſhou'd gather him up as <hi>Joſeph</hi> did the Corn in <hi>Egypt</hi>) for fear of a Famine of the Goſpel. I search'd the L. <hi>Peter</hi>'s Magazine, and the L. <hi>Powis</hi>'s Stables, leaſt he ſhould <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtored up to feed the Subterranean <hi>Troops</hi> of <hi>Horſe</hi> that lay inviſible un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ground, againſt the next <hi>Invaſion</hi> of <hi>Spaniſh Pilgrims</hi> Viſible only to himſelf. For this, <hi>Mephiſtophilus</hi> has an Inviſible <hi>Familiar</hi> that renders very thing Viſible to him, which no Man beſides himſelf can diſcern with a <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſpective. As <hi>Black Bills, Blank Commiſſions, Armies</hi> of <hi>Pilgrims,</hi> &amp;c. <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame Nature where his <hi>Baptiſm</hi> and degrees at <hi>Salamanca,</hi> which no <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an Living was ever Witneſs to but himſelf; for from this ſo fam'd <hi>Sala<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ca,</hi> came this ſo infamous <hi>Oats,</hi> this <hi>ſeed</hi> of the <hi>Serpent,</hi> to be planted <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>England,</hi> as the Plague from <hi>Paris,</hi> or the <hi>Pox</hi> from <hi>Naples.</hi>
+            </p>
+            <p>But for the better Grace of the matter. As <hi>Barley</hi> is called Sir <hi>John Barleycorn, Wheat,</hi> Sir <hi>William Whitebread,</hi> and green Peaſe in the Cod, young <hi>Haſtings,</hi> ſo for Diſtinction ſake, hereafter we will call our <hi>Oats, doctor,</hi> or <hi>Salamanca,</hi> which you pleaſe.</p>
+            <p>Now after all my ſearch above and under Ground, where the Devil do you Imagine at laſt I ſhould find my <hi>Reverend Doctor</hi> but in the <hi>Counter,</hi> where he was carried on Saturday Night for a <hi>Rat.</hi>
+            </p>
+            <pb facs="tcp:101721:2"/>
+            <!-- PDF PAGE 49 -->
+            <p>And now I know you will be ready to ask the Cauſe why this Darling o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the People, this Saviour of the Nation, ſhould be ſo ill Rewarded for al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Services?</p>
+            <p>This Devil of the People, and Firebrand of the Nation; This <hi>Counter-Rat,</hi> this Vermin of the Crown and Court, this Poyſon of the State, and Peſtilence of the Church, is juſtly Committed for <hi>words</hi> more Malitious than <hi>Colt,</hi> the <hi>Hereford Member;</hi> and <hi>Miſdemeanors</hi> higher than Sir <hi>Samuel</hi> the <hi>Ignoramus Foreman.</hi> His <hi>Accuſations</hi> are Numberleſs, his <hi>Crimes</hi> of the deepeſt <hi>Scarlet,</hi> and his <hi>Countenance</hi> of <hi>Braſs.</hi> It is as Impoſſible to tell them, as to find a <hi>Puniſhment</hi> anſwerable to his <hi>Deſert.</hi>
+            </p>
+            <p>Beſides, his <hi>Murders, Perjuries, Blaſphemies,</hi> &amp;c. He wou'd pretend to ſet up for a <hi>Mountebank,</hi> and inſtead of <hi>Orviotan</hi> impoſe <hi>Poyſon</hi> upon the People, by which many have been betrayed out of their Lives. Nay, by this Means, under pretence of <hi>Preſervation,</hi> be ſought to Deſtro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Na<g ref="char:EOLhyphen"/>tive <hi>Soveraign,</hi> and had almoſt purg'd his Royal <hi>Brother</hi> out of the <hi>Kingdom.</hi>
+            </p>
+            <p>This not taking Effect, and his <hi>Cheats,</hi> by which he had Impoſed on the Credulous Multitude, being at laſt Detected, the Inſolent <hi>Rat</hi> begins with Open Mouth to Ruil againſt the <hi>Lyon, King</hi> of the <hi>Forreſt,</hi> becauſe he wou'd not Call an <hi>Aſſembly</hi> of the <hi>Beaſts</hi> to Rule in his Place, and Diveſt him of his <hi>Regal Authority.</hi> He took it very ill, that the <hi>Rat</hi> did not <hi>Reign</hi> over the Caſtled <hi>Elephants</hi> of the <hi>Court;</hi> wou'd have all about the <hi>Lyon</hi> Remov'd, that the <hi>Leopards</hi> and <hi>Panthers</hi> might have a Tug for the <hi>Sovereignty,</hi> and was very Angry, that there was not a Tole<g ref="char:EOLhyphen"/>ration Granted to the <hi>Wolves</hi> and <hi>Tygers,</hi> by Lawleſs Uſurpation, to Prey upon the Harmleſs <hi>Sheep,</hi> and Glut their <hi>Ravenous Jaws</hi> with <hi>Innocent Blood.</hi>
+            </p>
+            <p>The Generous <hi>Lyon,</hi> Diſdaming the Reproaches of this Mean and Infa<g ref="char:EOLhyphen"/>mous <hi>Rat,</hi> leſt him to the Mercy of his Brother <hi>Lyon,</hi> who Bore a long time with his Inſolencies; till being at laſt Provok'd by his Inveterate Venomous Tongue, and Scandalous Invectives, Clapt him into the Pound for Treſpaſs and Damage of a Thouſand Innocent Sheep Worry'd by him, and his Accomplices, for which, its ſaid, he muſt Pay ſo many Pounds before he come out</p>
+            <p>Next to the <hi>Lyon King</hi> of <hi>Beaſts,</hi> and his R. <hi>Brother,</hi> this Poiſonous <hi>Rat</hi> Spit his Venom againſt the <hi>Jackcall,</hi> who was Serviceable to the <hi>Lyon</hi> upon all Occaſions, and Aſſerted his Rights and Priviledges againſt all his Enemies.</p>
+            <p>This <hi>Jackcall</hi> was an old <hi>Obſerver</hi> of all the <hi>Doctors</hi> Inſolencies, and had ever an <hi>Antipathy</hi> againſt the <hi>Counter-Rat,</hi> for which Cauſe, he went ofte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Court with Venomous Complaints againſt the <hi>Jackcall;</hi> and ſin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that took not Effect, went always Arm'd with a <hi>Proteſtant Flail,</hi> and a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>per of Poiſon, to do his Buſineſs at any Rate. But the Old <hi>Obſervator</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no other Weapon then an old <hi>Gooſe-Quill,</hi> with which he did ſo Thraſh <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Oats,</hi> Sift and Fan him about, that there was nothing at laſt but the very <hi>Chaff</hi> to be ſeen, which (cauſe it might not be loſt for want of Houſe-Room,) was Gather'd and Sack'd up in the <hi>Counter,</hi> as you have heard.</p>
+            <p>The next Remove was over the Water, where he will Serve in a Dou<g ref="char:EOLhyphen"/>ble Capacity, <hi>Oats</hi> to Feed the Furious <hi>Colt,</hi> while he lies at Rack and Manger; the <hi>Doctor,</hi> as <hi>Chaplain,</hi> to <hi>Hold Forth</hi> to the <hi>Brethren</hi> in <hi>Tribu<g ref="char:EOLhyphen"/>lation,</hi> where (unleſs <hi>Jack</hi> give 'em the laſt Remove,) that they may long Continue, is the Hearty Wiſhes of</p>
+            <closer>
+               <signed>
+                  <hi>Your Devoted, Humble Servant,</hi> M. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J.S.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
